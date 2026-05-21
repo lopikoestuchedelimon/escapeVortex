@@ -39,5 +39,5 @@ alert("VICTORIA");
  opcions: [a) Primero","b) Segundo","c) Tercero"]
  correcta: "b"
  
- Prova
+ Prova 2
 */
