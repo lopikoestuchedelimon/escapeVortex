@@ -38,6 +38,4 @@ alert("VICTORIA");
  pregunta: "Vas corriendo en una carrera de velocidad y adelantas a la persona que va en el segundo lugar. ¿En qué posición estás ahora?"
  opcions: [a) Primero","b) Segundo","c) Tercero"]
  correcta: "b"
- 
- Prova 2
 */
