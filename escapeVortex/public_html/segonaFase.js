@@ -1,6 +1,7 @@
 "use_strict";
 // Variables i constants
         const PREGUNTES = 11;
+        const RESPOSTES=["a","b","a","b","a","b","b","a","a","a"];
         let intents = 3;
         let comodins = 3;
    
@@ -9,6 +10,7 @@ alert("DEERROTA");
 } else if (PREGUNTES == 11) {
 alert("VICTORIA");
 }
+
 
 //preguntes
 /* pregunta: "¿Qué número falta? 2, 4, 6, __",
