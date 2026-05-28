@@ -1,5 +1,0 @@
-"use_strict"; 
-const NOMUSUARI=prompt("Introduce un nombre de usuario (10 carácteres como máximo):");
-alert("🌌 Bienvenido/a comandante ✨"+NOMUSUARI.substring(0,9)+"✨ a Escape Vortex!!! 🌌");
-alert("🚨 MISIÓN ESPACIAL INICIADA 🚨\nBienvenido/a comandante "+NOMUSUARI+".\nDurante la misión encontrarás:\n🧩 Enigmas espaciales\n🔢 Operaciones matemáticas\n🚪 Portales de seguridad bloqueados\n⚠️ Sistemas de defensa que pondrán a prueba tu inteligencia\n📜 Instrucciones de la misión\nIntroduce la respuesta correcta para avanzar.\nAlgunas preguntas requerirán escribir un número.\nOtras preguntas serán tipo test y tendrás que responder con:\nA\nB\nC\n🛰️ Portales de emergencia\nDispones de 3 portales de emergencia (comodines).\nSi no sabes una respuesta, podrás utilizar uno para saltar directamente al siguiente desafío.\n⚠️ Pero ten cuidado:\nLos portales son limitados.\Si fallas demasiadas veces y te quedas sin portales la misión fracasará.\n🎯 Objetivo final\nSupera todos los desafíos, activa el portal principal y escapa del vortex antes de que la estación espacial colapse por completo.\n¿Preparado/a para comenzar la misión?\n🌌 Buena suerte, astronauta.");
-
