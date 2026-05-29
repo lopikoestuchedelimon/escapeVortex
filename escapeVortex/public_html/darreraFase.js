@@ -23,14 +23,14 @@
         let i = 0;
         do {
         let usuario = prompt(PREGUNTAS1[i]);
-                if (usuario == RESPUESTAS[i]) {
+                if (usuario.toLowerCase() == RESPUESTAS[i]) {
         alert("🎯¡¡¡Respuesta correcta!!!🎯");
                 i++;
         } else{
         alert("Respuesta incorrecta 🫵😂");
                 if (comodines > 0) {
                 let usarComodines = prompt("🌀🌀¿Quieres acceder a un portal de emergencia para escapar del enigma?🌀🌀");
-                if (usarComodines == "si"){
+                if (usarComodines.toLowerCase() == "si"){
                 comodines--;
                 alert("🌀🌀Has accedido a un portal de emergencia.🌀🌀 Te quedan: " + comodines);
                 i++;
